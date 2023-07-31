@@ -1,7 +1,7 @@
 {
-  "name": "understanding-typescript",
+  "name": "drag-drop-ts-project",
   "version": "1.0.0",
-  "description": "Understanding TypeScript Course Setup",
+  "description": "Drag & Drop Project",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
   },
   "keywords": [
     "typescript",
-    "course"
+    "practice"
   ],
   "author": "Artem Bahmet",
   "license": "ISC",
